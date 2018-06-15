@@ -1,0 +1,34 @@
+"legislators-current.yaml":
+  title: "human_friendly_name"
+  fetched_at: 2018-06-15
+  urls:
+    original: https://theunitedstates.io/congress-legislators/legislators-current.yaml
+
+"legislators-historical.yaml":
+  title: "human_friendly_name"
+  fetched_at: 2018-06-15
+  urls:
+    original: https://theunitedstates.io/congress-legislators/legislators-historical.yaml
+
+"committees-current.yaml":
+  title: "human_friendly_name"
+  fetched_at: 2018-06-15
+  urls:
+    original: https://theunitedstates.io/congress-legislators/committees-current.yaml
+
+"committees-historical.yaml":
+  title: "human_friendly_name"
+  fetched_at: 2018-06-15
+  urls:
+    original: https://theunitedstates.io/congress-legislators/committees-historical.yaml
+
+"committee-membership-current.yaml":
+  title: "human_friendly_name"
+  fetched_at: 2018-06-15
+  urls:
+    original: https://theunitedstates.io/congress-legislators/committee-membership-current.yaml
+
+
+# _MY_BNAMES='legislators-current,legislators-historical,committees-historical,committees-current,committee-membership-current'
+# curl -LO \
+#   https://theunitedstates.io/congress-legislators/{$_MY_BNAMES}.yaml
